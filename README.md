@@ -34,7 +34,10 @@
 
 ### Тестирование
 
-![скриншот]()
+<img width="543" height="889" alt="Снимок экрана 2026-10-29 180501" src="https://github.com/user-attachments/assets/6c4744b5-1ce6-4ce2-bf96-d31f822d6400" />
+<img width="700" height="259" alt="Снимок экрана 2026-10-30 003733" src="https://github.com/user-attachments/assets/b2919b1a-4972-40de-84a6-f4c641cd89e9" />
+<img width="478" height="304" alt="Снимок экрана 2026-10-29 180752" src="https://github.com/user-attachments/assets/bbeec6fe-d4ab-4e56-8e60-c10193746afe" />
+
 
 ---
 
@@ -51,7 +54,8 @@
 
 ### Тестирование
 
-![скриншот]()
+<img width="700" height="259" alt="Снимок экрана 2026-10-30 003733" src="https://github.com/user-attachments/assets/8ed05c86-d2d2-4b39-a021-0b7753a48adb" />
+
 
 ---
 
@@ -69,11 +73,12 @@ A^T * C^T + B * C
 
 ### Тестирование
 
-![скриншот]()
+<img width="418" height="582" alt="Снимок экрана 2026-10-30 003424" src="https://github.com/user-attachments/assets/3b16bf5a-a26d-4574-b03f-d854377d0ecd" />
+
 
 ### Проверка на онлайн-калькуляторе
 
-![скриншот]()
+<img width="938" height="925" alt="Снимок экрана 2026-10-30 004158" src="https://github.com/user-attachments/assets/b65770d4-86e2-4569-b783-d2adbf1bf718" />
 
 ---
 
@@ -91,7 +96,8 @@ A^T * C^T + B * C
 
 ### Тестирование
 
-![скриншот]()
+<img width="847" height="96" alt="Снимок экрана 2026-10-30 004452" src="https://github.com/user-attachments/assets/ef9237b6-2a45-4a99-81b6-669f06c43042" />
+
 
 ---
 
@@ -109,7 +115,9 @@ A^T * C^T + B * C
 
 ### Тестирование
 
-![скриншот]()
+<img width="594" height="198" alt="Снимок экрана 2026-10-30 010152" src="https://github.com/user-attachments/assets/5f31fbeb-0e0a-43a7-b3fc-571bbbb4ea42" />
+
+
 
 ---
 
@@ -128,7 +136,9 @@ A^T * C^T + B * C
 
 ### Тестирование
 
-![скриншот]()
+<img width="521" height="122" alt="Снимок экрана 2026-10-30 010259" src="https://github.com/user-attachments/assets/4e043dff-f1a4-472f-b07b-a08c64291e4e" />
+
+
 
 ---
 
@@ -146,7 +156,8 @@ A^T * C^T + B * C
 
 ### Тестирование
 
-![скриншот]()
+<img width="324" height="199" alt="Снимок экрана 2026-10-30 010539" src="https://github.com/user-attachments/assets/bd99ca9b-4a46-449a-9440-235df9301a19" />
+
 
 ---
 
@@ -164,4 +175,5 @@ A^T * C^T + B * C
 
 ### Тестирование
 
-![скриншот]()
+<img width="325" height="314" alt="Снимок экрана 2026-10-30 010850" src="https://github.com/user-attachments/assets/ec4b97e3-81aa-4012-9eff-97641be4559e" />
+
